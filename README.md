@@ -1,3 +1,6 @@
+# This Text was created by ChatGPT 3.5 - Did not yet have time to create the initial page!
+
+
 # Zero Trust Repository
 
 ![Zero Trust](zero-trust-image.png)

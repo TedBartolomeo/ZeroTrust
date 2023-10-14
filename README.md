@@ -45,6 +45,4 @@ To learn more about Zero Trust, check out our [Wiki](wiki/zero-trust.md).
 
 We welcome contributions to this repository. If you have valuable resources, articles, presentations, or any content related to Zero Trust, please consider contributing to this project. Follow our [contribution guidelines](CONTRIBUTING.md) to get started.
 
-## License
 
-This repository is licensed under the [MIT License](LICENSE).
